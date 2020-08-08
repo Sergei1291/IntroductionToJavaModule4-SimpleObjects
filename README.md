@@ -1,1 +1,1 @@
-# IntroductionToJavaModule4-SimpleObjects
+# IntroductionToJavaModule4-SimpleClasses
